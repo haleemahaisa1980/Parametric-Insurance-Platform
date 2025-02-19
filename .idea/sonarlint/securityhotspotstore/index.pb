@@ -5,3 +5,7 @@ E
 contracts/policy.clar,4/e/4ecb7ddd78e9c3701d2d0500365f9852b11ba81a
 E
 contracts/oracle.clar,3/c/3cf19cce7726142cf924f7cdbd4ae79592f1f8fc
+H
+contracts/risk-pool.clar,3/c/3ce65b36d90e14569c3512d3802066a4a1dabd0f
+P
+ contracts/claims-processing.clar,f/c/fc9fe7e4a978b98836fc097a53fd2813e6dd2e93
