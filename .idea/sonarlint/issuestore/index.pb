@@ -13,3 +13,5 @@ O
 tests/claims-processing.test.ts,a/9/a9683e3c98ee23ca73f433b7a6dd82dd889d9230
 D
 tests/oracle.test.ts,a/0/a01d33af3d01e43d4c5e519c62c3403f188dab8e
+D
+tests/policy.test.ts,8/5/85f002c9bde24b1a488a6d021084a81b58717766
